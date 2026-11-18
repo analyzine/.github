@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://analyzine.com/?utm_source=github&utm_medium=referral&utm_campaign=readme">
-  <img src=".github/assets/analyzine-icon.png" alt="Analyzine logo" width="96" height="96">
+  <img src="./analyzine-logo-horizontal-color.svg" alt="Analyzine logo" width="96" height="96">
 </a>
 
 # Analyzine
