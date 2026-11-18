@@ -1,8 +1,13 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./analyzine-mark-color.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./analyzine-mark-white.svg" />
+    <img alt="Analyzine logo" src="./analyzine-mark-color.svg" width="96" />
+  </picture>
 
-<a href="https://analyzine.com/?utm_source=github&utm_medium=referral&utm_campaign=readme">
+<!-- <a href="https://analyzine.com/?utm_source=github&utm_medium=referral&utm_campaign=readme">
   <img src="./analyzine-logo-horizontal-color.svg" alt="Analyzine logo" width="96" height="96">
-</a>
+</a> -->
 
 # Analyzine
 
